@@ -1,4 +1,4 @@
-<h1>Superstore - Analysis of Root Cause</h1>
+<h1>Superstore - Profitability Analysis(Root Cause)</h1>
 
 <h2>Description</h2>
 This Superstore data set was expanded from 51K to 1 million rows. Although sales continued to experience year-over-year growth — profitability in certain 
